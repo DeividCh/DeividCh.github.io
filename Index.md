@@ -1,6 +1,6 @@
 Esta es mi pagina personal 
 # Currículum 
-### David Chaguaro
+### David Chaguaro Cardenas <br> Estudiante de Sistemas Microinformática y Redes
 <img="yo.PNG" with="100px" heiht="200"> <br>
 ### Sobre mi <br>
 Aspirante laboral a la <br> ciberseguridad con el <br> manejo de escaneo a las <br>
