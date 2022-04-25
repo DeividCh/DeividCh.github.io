@@ -7,7 +7,7 @@ Aspirante laboral a la <br> ciberseguridad con el <br> manejo de escaneo a las <
 redes, manejo del Phishing, <br> arduinos, acceso remoto, <br> manipulación 
 del hardware y Software.
 # Formación Académica 
-Colegio Regina Carmeli
+# Colegio Regina Carmeli <br>
 Fecha de finalización: 2019 <br>
 Enseñanza Secundaria Obligatoria (ESO)
 -  esto
