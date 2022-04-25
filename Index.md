@@ -30,5 +30,5 @@ Operario de producción <br>
  ***Gmail:*** juniord0804@gmail.com <br>
  ***Ubicación:*** Calle Avila, N3 P3.
 
-[Aqui para acceder a este trabajo](/Proyecto_web)
+[Aqui para acceder a este trabajo](/Proyecto_web) <br>
 [Proyecto2](/Proyecto_Web 2/)
