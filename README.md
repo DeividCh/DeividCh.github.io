@@ -1,2 +1,0 @@
-# DeividCh.github.io
-qwerty
