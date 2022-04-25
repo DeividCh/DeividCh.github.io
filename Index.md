@@ -3,8 +3,8 @@ Esta es mi pagina personal
 ### David Chaguaro
 <img="yo.PNG" with="100px" heiht="200"> <br>
 ### Sobre mi <br>
-Aspirante laboral a la ciberseguridad con el manejo de escaneo a las
-redes, manejo del Phishing, arduinos, acceso remoto, manipulación 
+Aspirante laboral a la <br> ciberseguridad con el <br> manejo de escaneo a las <br>
+redes, manejo del Phishing, <br> arduinos, acceso remoto, <br> manipulación 
 del hardware y Software.
 
 
