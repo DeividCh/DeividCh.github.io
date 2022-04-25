@@ -21,7 +21,7 @@ Empresa especializada en Porcelanato Liquido. <br>
 - Técnicas de almacenaje de producto líquido. <br>
 ***Europastry (2021 - Actualmente)*** <br>
 Operario de producción <br>
- #Conocimientos y Habilidades
+ # Conocimientos y Habilidades
  ***Idiomas*** <br>
  ***Castellano:*** Nativo   ***Deporte:*** Futbol - Muaythai <br>
  ***Ingles:*** Nivel Medio <br>
