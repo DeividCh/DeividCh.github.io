@@ -31,4 +31,4 @@ Operario de producción <br>
  ***Ubicación:*** Calle Avila, N3 P3.
 
 [Aqui para acceder a este trabajo](/Proyecto_web) <br>
-[Proyecto 2](/Proyecto_Web 2)
+[Proyecto 2](/Proyecto_Web.2)
